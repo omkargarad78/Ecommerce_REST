@@ -1,0 +1,5 @@
+env
+ecommerce_api/__pycache__
+orders/__pycache__
+products/__pycache__
+users/__pycache__
