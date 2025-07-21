@@ -44,8 +44,8 @@ This project is a full-featured Django REST Framework-based e-commerce backend. 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-api.git
-cd ecommerce-api
+git clone https://github.com/omkargarad78/Ecommerce_REST.git
+cd ecommerce_api
 ```
 
 ### 2. Create a Virtual Environment
